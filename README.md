@@ -1,0 +1,1 @@
+2026-07-12 Added Miami page. Used "embed" from Calendar, but did not say "make public". Maybe have to make public later. Changed name of calendar from MIA to MIAMI. Maybe do the same for PHX and SD later.
